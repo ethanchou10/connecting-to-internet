@@ -46,7 +46,7 @@ public class InventoryManager : MonoBehaviour, IGameManager {
 		return 0;
 	}
 
-	public void Startup() {
+	public void Startup(NetworkService service) {
 		Debug.Log("Inventory manager starting...");
 
 		_items = new Dictionary<string, int>();

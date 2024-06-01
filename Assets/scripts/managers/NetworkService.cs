@@ -4,7 +4,7 @@ using System.Collections;
 using System;
 
 public class NetworkService {
-	private const string jsonApi = "https://api.openweathermap.org/data/2.5/weather?q=Chicago,us&APPID=e87991825328b10ee03463453976a4bb";
+	private const string jsonApi = "https://api.openweathermap.org/data/2.5/weather?q=Sydney,au&APPID=e87991825328b10ee03463453976a4bb";
 
 	private IEnumerator CallAPI(string url, Action<string> callback) {
 		using (UnityWebRequest request = UnityWebRequest.Get(url)) {

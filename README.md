@@ -1,3 +1,3 @@
-# adding-interactive-devices
+# connecting-to-internet
  
-https://github.com/ethanchou10/adding-interactive-devices/assets/158808046/522ea4f7-402c-4bdf-b18b-95e2684f6706
+https://github.com/ethanchou10/connecting-to-internet/assets/158808046/ab12fee6-dd76-4c65-975f-a95323f42160
